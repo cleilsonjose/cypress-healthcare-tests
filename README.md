@@ -29,3 +29,20 @@ npm install
 npm run cypress:run   # modo headless
 # ou
 npm run cypress:open  # modo interativo
+
+## 🔒 Observações Importantes
+
+- Este projeto **não acessa sistemas reais do governo** — utiliza mocks para simular cenários de teste éticos e legais
+- Baseado em experiência real com sistemas SUS, mas adaptado para demonstração pública
+- Foco em demonstrar: arquitetura de testes, validação de regras de negócio críticas e métricas de qualidade
+
+## 📌 Por que este projeto importa para recrutadores?
+
+✅ Mostra domínio de **sistemas críticos** (saúde pública)  
+✅ Demonstra **pensamento em regras de negócio**, não só sintaxe de ferramentas  
+✅ Inclui **métricas de impacto real** (horas economizadas, redução de bugs)  
+✅ Código limpo com TypeScript e boas práticas de organização
+
+---
+
+> ✨ **Feito por Cleilson José** — Especialista em QA com 10+ anos automatizando sistemas web e mobile para saúde, finanças e varejo.
