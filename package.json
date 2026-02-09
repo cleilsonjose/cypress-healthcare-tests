@@ -1,0 +1,27 @@
+{
+  "name": "cypress-healthcare-tests",
+  "version": "1.0.0",
+  "description": "Automação de fluxo de vacinação baseado em sistemas governamentais",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "npm run cypress:run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleilsonjose/cypress-healthcare-tests.git"
+  },
+  "keywords": ["cypress", "typescript", "qa", "testes", "saude"],
+  "author": "Cleilson José",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cleilsonjose/cypress-healthcare-tests/issues"
+  },
+  "homepage": "https://github.com/cleilsonjose/cypress-healthcare-tests#readme",
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "typescript": "^5.9.3"
+  }
+}
