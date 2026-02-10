@@ -5,7 +5,7 @@
 
 ## 💡 Contexto de Negócio
 
-Projeto realista simulando automação para sistemas governamentais de saúde (baseado em experiência como consultor PJ para projetos do Ministério da Saúde). Valida fluxos críticos de registro de vacinação utilizados por profissionais de saúde em campanhas nacionais.
+Projeto realista simulando automação para sistemas de saúde (baseado em experiência como consultor PJ). Valida fluxos críticos de registro de vacinação utilizados por profissionais de saúde em campanhas nacionais.
 
 ## 📊 Impacto na Qualidade (métricas reais de projeto similar)
 
@@ -36,13 +36,6 @@ npm run cypress:open  # modo interativo
 - Baseado em experiência real com sistemas SUS, mas adaptado para demonstração pública
 - Foco em demonstrar: arquitetura de testes, validação de regras de negócio críticas e métricas de qualidade
 
-## 📌 Por que este projeto importa para recrutadores?
-
-✅ Mostra domínio de **sistemas críticos** (saúde pública)  
-✅ Demonstra **pensamento em regras de negócio**, não só sintaxe de ferramentas  
-✅ Inclui **métricas de impacto real** (horas economizadas, redução de bugs)  
-✅ Código limpo com TypeScript e boas práticas de organização
-
 ---
 
-> ✨ **Feito por Cleilson José** — Especialista em QA com 10+ anos automatizando sistemas web e mobile para saúde, finanças e varejo.
+    > ✨ **Feito por Cleilson José** — Especialista em QA com 10+ anos automatizando sistemas web e mobile para saúde, finanças e varejo.
